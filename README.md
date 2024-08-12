@@ -1,2 +1,2 @@
-# Harshitpandeydemo
-This is my first Git Repository.
+# Harshitpandey
+This is my Git Repository.
